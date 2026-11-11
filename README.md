@@ -6,7 +6,7 @@
 
 #
 
-Me chamo William Gabriel da Silva, tenho 17 anos e moro em Itajaí - SC. Atualmente curso Desenvolvimento de Sistemas na SESI. Sou apaixonado por tecnologia.
+Me chamo William Gabriel da Silva, tenho 17 anos e moro em Itajaí - SC. Atualmente curso Desenvolvimento de Sistemas no SESI. Sou apaixonado por tecnologia.
 
 #
 
@@ -34,7 +34,7 @@ Me chamo William Gabriel da Silva, tenho 17 anos e moro em Itajaí - SC. Atualme
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg"
 />
 <img
     align="left"
@@ -70,6 +70,69 @@ Me chamo William Gabriel da Silva, tenho 17 anos e moro em Itajaí - SC. Atualme
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img
+    align="left"
+    alt="C"
+    title="C"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Canva"
+    title="Canva"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
+/>
+
+<img
+    align="left"
+    alt="php"
+    title="php"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Claude"
+    title="Claude"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg"
+/>
+
+<img
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+
+<img
+    align="left"
+    alt="lovable"
+    title="Lovable"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lovable/lovable-original.svg"
+/>
+
+<img
+    align="left"
+    alt="Windows11"
+    title="Windows11"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
 />
 <br/>
 <br/>
