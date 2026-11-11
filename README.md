@@ -62,10 +62,11 @@ Sou William Gabriel da Silva, tenho 17 anos e sou estudante de Desenvolvimento d
 
 <br/>
 
+<!-- FINAL MESSAGE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:120a2a&height=100&section=footer" width="100%" />
+<p><i><sub>"Não fui eu que ordenei a você? Seja forte e corajoso! Não se apavore nem desanime, pois o Senhor, o seu Deus, estará com você por onde você andar. (Josué 1:9)"</sub></i></p>
 
-<p><i>"Não desista. Deus está preparando algo maior do que você imagina. (Jeremias 29:11)"</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:120a2a&height=100&section=footer" width="100%" />
 
 </div>
