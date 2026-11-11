@@ -6,7 +6,7 @@
 
 #
 
-Me chamo William Gabriel da Silva, tenho 17 anos e moro em Itajaí - SC. Atualmente curso Desenvolvimento de Sistemas no SESI. Sou apaixonado por tecnologia.
+Sou William Gabriel da Silva, tenho 17 anos e sou estudante de Desenvolvimento de Sistemas no SESI. Tenho grande interesse pela área de tecnologia, especialmente pelo desenvolvimento de software e pelo universo Full Stack. Atualmente, estou desenvolvendo minhas habilidades em programação, buscando aprimorar minha lógica, criatividade e capacidade de resolver problemas. Tenho interesse em tecnologias como Java, HTML, CSS, Python e C, além de estar sempre disposto a aprender novas linguagens e ferramentas. Meu objetivo é transformar conhecimentos em projetos práticos, adquirir experiência e evoluir constantemente como desenvolvedor.
 
 #
 
